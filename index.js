@@ -18,5 +18,5 @@ request('http://mb.trackstack.co/ws/2/recording?query=wonderwall', function(err,
 
 			console.log(parsedBody);
 		});
-	}
+	};
 });
