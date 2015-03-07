@@ -10,13 +10,13 @@ describe('Recording Url Construction', function() {
 			searchServer: 'http://search.domain.com'
 		});
 
-		expect('http://search.domain.com/ws/2/recording/').to.equal(recording.baseUrl);
+		expect(recording.baseUrl).to.equal('http://search.domain.com/ws/2/recording/');
 	});
 
 	it('BaseUrl Matches default', function() {
 		var recording = new Recording();
 
-		expect('https://search.musicbrainz.org/ws/2/recording/').to.equal(recording.baseUrl);
+		expect(recording.baseUrl).to.equal('https://search.musicbrainz.org/ws/2/recording/');
 	});
 
 	//?max=2&type=recording&fmt=xml&offset=0&query=artist:"jack%20johnson" AND recording:breakdown
@@ -26,9 +26,9 @@ describe('Recording Url Construction', function() {
 		var recording = new Recording();
 
 
-		expect('artist:"Jack Johnson"').to.equal(recording.search({
+		expect(recording._createQueryValue({
 			artist: 'Jack Johnson'
-		}).query);
+		})).to.equal('artist:"Jack Johnson"');
 
 	});
 
@@ -36,10 +36,22 @@ describe('Recording Url Construction', function() {
 		var recording = new Recording();
 
 
-		expect('artist:"Jack Johnson" AND recording:"breakdown"').to.equal(recording.search({
+		expect(recording._createQueryValue({
 			artist: 'Jack Johnson',
 			recording: 'breakdown'
-		}).query);
+		})).to.equal('artist:"Jack Johnson" AND recording:"breakdown"');
 
+	});
+
+	it('Create full Url', function(){
+		var recording = new Recording({max:2, format:'xml'});
+
+		recording._createQueryValue({
+			artist: 'Jack Johnson!',
+			recording: 'breakdown'
+		});
+
+		expect(recording._createFullUrl()).
+		to.equal('https://search.musicbrainz.org/ws/2/recording/?max=2&type=recording&fmt=xml&offset=0&query=artist%3A%22Jack%20Johnson!%22%20AND%20recording%3A%22breakdown%22');
 	});
 });
