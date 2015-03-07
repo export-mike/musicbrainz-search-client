@@ -1,19 +1,29 @@
 {
-  "name": "nobrainzer",
-  "version": "0.0.0",
-  "description": "",
+  "name": "camelcase-keys-recursive",
+  "version": "0.0.1",
+  "description": "Adaptation of camelcase-keys but recursive. ",
   "main": "index.js",
-  "scripts": {},
-  "author": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "camelcase",
+    "keys",
+    "object",
+    "recursive",
+    "camelcase-keys",
+    "snake-case"
+  ],
+  "author": "mike james",
   "license": "ISC",
   "dependencies": {
-    "async": "^0.9.0",
-    "request": "^2.53.0",
-    "request-debug": "^0.1.1",
-    "xml2js": "^0.4.4"
+    "camelcase": "^1.0.2",
+    "isarray": "0.0.1",
+    "lodash": "^3.1.0",
+    "map-obj": "^1.0.0"
   },
   "devDependencies": {
-    "jshint": "^2.6.0",
-    "precommit-hook": "^1.0.7"
+    "chai": "^2.1.1",
+    "lab": "^5.4.0"
   }
 }

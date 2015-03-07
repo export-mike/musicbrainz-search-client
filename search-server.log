@@ -1,0 +1,300 @@
+23:21 <freenode> CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g are supported by this server
+23:21 <freenode> CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: are supported by this server
+23:21 <freenode> EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU are supported by this server
+23:21 <freenode> There are 183 users and 91728 invisible on 26 servers
+23:21 <freenode> 25 IRC Operators online
+23:21 <freenode> 8 unknown connection(s)
+23:21 <freenode> 49327 channels formed
+23:21 <freenode> I have 4942 clients and 1 servers
+23:21 <freenode> 4942 5373 Current local users 4942, max 5373
+23:21 <freenode> 91911 105669 Current global users 91911, max 105669
+23:21 <freenode> Highest connection count: 5374 (5373 clients) (289796 connections received)
+23:21 <freenode> - kornbluth.freenode.net Message of the Day -
+23:21 <freenode> - Welcome to kornbluth.freenode.net in Frankfurt, DE, EU.
+23:21 <freenode> - Thanks to Probe Networks (www.probe-networks.de) for
+23:21 <freenode> - sponsoring this server!
+23:21 <freenode> -  
+23:21 <freenode> - KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+23:21 <freenode> - an active member of the Futurians, Cyril Kornbluth sold his
+23:21 <freenode> - first story professionally at age 15.  By the 1940's his
+23:21 <freenode> - stories appeared widely under several pennames, including
+23:21 <freenode> - S.D. Gottesman and Cecil Corman.  He left his university
+23:21 <freenode> - studies in Chicago to serve in the Army in Europe during
+23:21 <freenode> - WWII, then returned to school and work in Chicago until he
+23:21 <freenode> - began writing full-time in 1951.  The author of The Marching
+23:21 <freenode> - Morons and the novels The Space Merchants (with Frederik
+23:21 <freenode> - Pohl) and The Syndic, he's best known for his biting social
+23:21 <freenode> - satire and his collaborations with Pohl and with Judith
+23:21 <freenode> - Merril.
+23:21 <freenode> - Welcome to freenode - supporting the free and open source
+23:21 <freenode> - software communities since 1998.
+23:21 <freenode> -  
+23:21 <freenode> - **************************************************************
+23:21 <freenode> -                       SECURITY ALERT
+23:21 <freenode> -  
+23:21 <freenode> - Over the weekend of 13th-14th September freenode staff noticed
+23:21 <freenode> - some compromised binaries present on a number of servers.
+23:21 <freenode> - The servers in question have been removed from the network and
+23:21 <freenode> - shut down.  However, it's possible that network traffic  -
+23:21 <freenode> - including SSL traffic - has been sniffed and passwords
+23:21 <freenode> - exposed.
+23:21 <freenode> -  
+23:21 <freenode> - We therefore recommend that all users change their nickserv
+23:21 <freenode> - password(s) to a new value which is not shared with any
+23:21 <freenode> - other service.
+23:21 <freenode> -  
+23:21 <freenode> - You can do this with /msg nickserv set password newpasshere
+23:21 <freenode> -  
+23:21 <freenode> - Please note that investigation is ongoing to discover the root
+23:21 <freenode> - cause of the attack, and until this investigation is complete
+23:21 <freenode> - we cannot be 100% certain that all traces of the compromises
+23:21 <freenode> - have been removed. We may have to ask you to change your  
+23:21 <freenode> - passwords again after analysis has completed.
+23:21 <freenode> -  
+23:21 <freenode> - Further details will appear on https://blog.freenode.net/
+23:21 <freenode> -  
+23:21 <freenode> - **************************************************************
+23:21 <freenode> -  
+23:21 <freenode> - By connecting to freenode you indicate that you have read and
+23:21 <freenode> - accept our policies as set out on http://www.freenode.net
+23:21 <freenode> - freenode runs an open proxy scanner. Please join #freenode for
+23:21 <freenode> - any network-related questions or queries, where a number of
+23:21 <freenode> - volunteer staff and helpful users will be happy to assist you.
+23:21 <freenode> -  
+23:21 <freenode> - You can meet us at FOSSCON (http://www.fosscon.org) where we get
+23:21 <freenode> - together with like-minded FOSS enthusiasts for talks and
+23:21 <freenode> - real-life collaboration.
+23:21 <freenode> -  
+23:21 <freenode> - We would like to thank Private Internet Access
+23:21 <freenode> - (https://www.privateinternetaccess.com/) and the other
+23:21 <freenode> - organisations that help keep freenode and our other projects
+23:21 <freenode> - running for their sustained support.
+23:21 <freenode> -  
+23:21 <freenode> - In particular we would like to thank the sponsor
+23:21 <freenode> - of this server, details of which can be found above.
+23:21 <freenode> -  
+23:21 <freenode> End of /MOTD command.
+23:21 <freenode> michaeljames has changed mode: +i
+23:32 <freenode> Disconnected
+18:59 <freenode> Reconnecting…
+18:59 <freenode> No such file or directory
+18:59 <freenode> Disconnected
+18:59 <freenode> Connecting…
+18:59 <freenode> Connected
+18:59 <freenode> *** Looking up your hostname...
+18:59 <freenode> *** Checking Ident
+18:59 <freenode> *** Found your hostname
+18:59 <freenode> *** No Ident response
+18:59 <freenode> Welcome to the freenode Internet Relay Chat Network michaeljames
+18:59 <freenode> Your host is orwell.freenode.net[185.30.166.38/6667], running version ircd-seven-1.1.3
+18:59 <freenode> This server was created Sat Feb 22 2014 at 16:03:54 BRT
+18:59 <freenode> orwell.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+18:59 <freenode> CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g are supported by this server
+18:59 <freenode> CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: are supported by this server
+18:59 <freenode> EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU are supported by this server
+18:59 <freenode> There are 179 users and 97486 invisible on 26 servers
+18:59 <freenode> 25 IRC Operators online
+18:59 <freenode> 13 unknown connection(s)
+18:59 <freenode> 49996 channels formed
+18:59 <freenode> I have 3688 clients and 1 servers
+18:59 <freenode> 3688 15001 Current local users 3688, max 15001
+18:59 <freenode> 97665 104047 Current global users 97665, max 104047
+18:59 <freenode> Highest connection count: 15002 (15001 clients) (3332199 connections received)
+18:59 <freenode> - orwell.freenode.net Message of the Day -
+18:59 <freenode> - Welcome to orwell.freenode.net in Amsterdam, NL.
+18:59 <freenode> - Thanks to http://www.hyperfilter.com/ for sponsoring
+18:59 <freenode> - this server!
+18:59 <freenode> -  
+18:59 <freenode> - ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+18:59 <freenode> - moved him to England when he was one year old, and it
+18:59 <freenode> - was in England where he was educated and spent most of
+18:59 <freenode> - his life.  Orwell is perhaps best known for his novels
+18:59 <freenode> - Nineteen Eighty-Four and Animal Farm.
+18:59 <freenode> -  
+18:59 <freenode> -  
+18:59 <freenode> - Welcome to freenode - supporting the free and open source
+18:59 <freenode> - software communities since 1998.
+18:59 <freenode> -  
+18:59 <freenode> - **************************************************************
+18:59 <freenode> -                       SECURITY ALERT
+18:59 <freenode> -  
+18:59 <freenode> - Over the weekend of 13th-14th September freenode staff noticed
+18:59 <freenode> - some compromised binaries present on a number of servers.
+18:59 <freenode> - The servers in question have been removed from the network and
+18:59 <freenode> - shut down.  However, it's possible that network traffic  -
+18:59 <freenode> - including SSL traffic - has been sniffed and passwords
+18:59 <freenode> - exposed.
+18:59 <freenode> -  
+18:59 <freenode> - We therefore recommend that all users change their nickserv
+18:59 <freenode> - password(s) to a new value which is not shared with any
+18:59 <freenode> - other service.
+18:59 <freenode> -  
+18:59 <freenode> - You can do this with /msg nickserv set password newpasshere
+18:59 <freenode> -  
+18:59 <freenode> - Please note that investigation is ongoing to discover the root
+18:59 <freenode> - cause of the attack, and until this investigation is complete
+18:59 <freenode> - we cannot be 100% certain that all traces of the compromises
+18:59 <freenode> - have been removed. We may have to ask you to change your  
+18:59 <freenode> - passwords again after analysis has completed.
+18:59 <freenode> -  
+18:59 <freenode> - Further details will appear on https://blog.freenode.net/
+18:59 <freenode> -  
+18:59 <freenode> - **************************************************************
+18:59 <freenode> -  
+18:59 <freenode> - By connecting to freenode you indicate that you have read and
+18:59 <freenode> - accept our policies as set out on http://www.freenode.net
+18:59 <freenode> - freenode runs an open proxy scanner. Please join #freenode for
+18:59 <freenode> - any network-related questions or queries, where a number of
+18:59 <freenode> - volunteer staff and helpful users will be happy to assist you.
+18:59 <freenode> -  
+18:59 <freenode> - You can meet us at FOSSCON (http://www.fosscon.org) where we get
+18:59 <freenode> - together with like-minded FOSS enthusiasts for talks and
+18:59 <freenode> - real-life collaboration.
+18:59 <freenode> -  
+18:59 <freenode> - We would like to thank Private Internet Access
+18:59 <freenode> - (https://www.privateinternetaccess.com/) and the other
+18:59 <freenode> - organisations that help keep freenode and our other projects
+18:59 <freenode> - running for their sustained support.
+18:59 <freenode> -  
+18:59 <freenode> - In particular we would like to thank the sponsor
+18:59 <freenode> - of this server, details of which can be found above.
+18:59 <freenode> -  
+18:59 <freenode> End of /MOTD command.
+18:59 <freenode> michaeljames has changed mode: +i
+19:09 <freenode> Disconnected
+19:11 <freenode> Reconnecting…
+19:11 <freenode> Connected
+19:11 <freenode> *** Looking up your hostname...
+19:11 <freenode> *** Checking Ident
+19:11 <freenode> *** Found your hostname
+19:11 <freenode> Connecting…
+19:11 <freenode> Connected
+19:11 <freenode> *** Looking up your hostname...
+19:11 <freenode> *** Checking Ident
+19:11 <freenode> *** Found your hostname
+19:11 <freenode> *** No Ident response
+19:11 <freenode> Welcome to the freenode Internet Relay Chat Network michaeljames
+19:11 <freenode> Your host is morgan.freenode.net[64.32.24.176/6667], running version ircd-seven-1.1.3
+19:11 <freenode> This server was created Thu Jul 31 2014 at 17:07:15 UTC
+19:11 <freenode> morgan.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+19:11 <freenode> CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g are supported by this server
+19:11 <freenode> CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: are supported by this server
+19:11 <freenode> EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU are supported by this server
+19:11 <freenode> There are 178 users and 97519 invisible on 26 servers
+19:11 <freenode> 25 IRC Operators online
+19:11 <freenode> 13 unknown connection(s)
+19:11 <freenode> 50049 channels formed
+19:11 <freenode> I have 8534 clients and 1 servers
+19:11 <freenode> 8534 10431 Current local users 8534, max 10431
+19:11 <freenode> 97697 101659 Current global users 97697, max 101659
+19:11 <freenode> Highest connection count: 10432 (10431 clients) (506005 connections received)
+19:11 <freenode> - morgan.freenode.net Message of the Day -
+19:11 <freenode> - Welcome to morgan.freenode.net in Chicago, IL, USA! Thank
+19:11 <freenode> - you to psyprus for sponsoring this server!
+19:11 <freenode> -  
+19:11 <freenode> - MORGAN, RICHARD K. (1965-) is an English science fiction
+19:11 <freenode> - author. Morgan's books are generally set in a dystopian world.
+19:11 <freenode> - His breakout novel Altered Carbon won the Philip K. Dick Award,
+19:11 <freenode> - and he has written many successful and amazing works to follow.
+19:11 <freenode> - His more recent writings explore the theme of autonomy
+19:11 <freenode> - in science fiction and escapism in fantasy.
+19:11 <freenode> -  
+19:11 <freenode> -  
+19:11 <freenode> - Welcome to freenode - supporting the free and open source
+19:11 <freenode> - software communities since 1998.
+19:11 <freenode> -  
+19:11 <freenode> - **************************************************************
+19:11 <freenode> -                       SECURITY ALERT
+19:11 <freenode> -  
+19:11 <freenode> - Over the weekend of 13th-14th September freenode staff noticed
+19:11 <freenode> - some compromised binaries present on a number of servers.
+19:11 <freenode> - The servers in question have been removed from the network and
+19:11 <freenode> - shut down.  However, it's possible that network traffic  -
+19:11 <freenode> - including SSL traffic - has been sniffed and passwords
+19:11 <freenode> - exposed.
+19:11 <freenode> -  
+19:11 <freenode> - We therefore recommend that all users change their nickserv
+19:11 <freenode> - password(s) to a new value which is not shared with any
+19:11 <freenode> - other service.
+19:11 <freenode> -  
+19:11 <freenode> - You can do this with /msg nickserv set password newpasshere
+19:11 <freenode> -  
+19:11 <freenode> - Please note that investigation is ongoing to discover the root
+19:11 <freenode> - cause of the attack, and until this investigation is complete
+19:11 <freenode> - we cannot be 100% certain that all traces of the compromises
+19:11 <freenode> - have been removed. We may have to ask you to change your  
+19:11 <freenode> - passwords again after analysis has completed.
+19:11 <freenode> -  
+19:11 <freenode> - Further details will appear on https://blog.freenode.net/
+19:11 <freenode> -  
+19:11 <freenode> - **************************************************************
+19:11 <freenode> -  
+19:11 <freenode> - By connecting to freenode you indicate that you have read and
+19:11 <freenode> - accept our policies as set out on http://www.freenode.net
+19:11 <freenode> - freenode runs an open proxy scanner. Please join #freenode for
+19:11 <freenode> - any network-related questions or queries, where a number of
+19:11 <freenode> - volunteer staff and helpful users will be happy to assist you.
+19:11 <freenode> -  
+19:11 <freenode> - You can meet us at FOSSCON (http://www.fosscon.org) where we get
+19:11 <freenode> - together with like-minded FOSS enthusiasts for talks and
+19:11 <freenode> - real-life collaboration.
+19:11 <freenode> -  
+19:11 <freenode> - We would like to thank Private Internet Access
+19:11 <freenode> - (https://www.privateinternetaccess.com/) and the other
+19:11 <freenode> - organisations that help keep freenode and our other projects
+19:11 <freenode> - running for their sustained support.
+19:11 <freenode> -  
+19:11 <freenode> - In particular we would like to thank the sponsor
+19:11 <freenode> - of this server, details of which can be found above.
+19:11 <freenode> -  
+19:11 <freenode> End of /MOTD command.
+19:11 <freenode> michaeljames has changed mode: +i
+19:11 <#MusicBrainz-Devel> michaeljames has joined (~michaelja@cpc16-acto2-2-0-cust470.4-2.cable.virginm.net)
+19:11 <#MusicBrainz-Devel> Topic: Hot week | Agenda: reviews/general discussion
+19:11 <#MusicBrainz-Devel> chirlu` set the topic at: 9 Feb 2015 20:28
+19:11 <#MusicBrainz-Devel> Mode: +cn
+19:11 <#MusicBrainz-Devel> Created at: 16 Feb 2009 18:42
+19:15 <#MusicBrainz-Devel> michaeljamesHi Guys i'm using the webservices on musicbrainz to get the xml data. I currently have the musicbrainz server up and running on AWS. Would the alternative search server be more scalable? I'm not using the website at all. I just need to search the data. The average client will be making around 1000 requests in around 1minute.
+19:15 <#MusicBrainz-Devel> ianmcorvidaeif you're doing entirely searches (and no browse requests, which people sometimes thing are searches) then you're not using the server really at all, it just proxies searches to the search server
+19:16 <freenode> UmkaDK has left IRC (Ping timeout: 252 seconds)
+19:16 <#MusicBrainz-Devel> ianmcorvidaethe default config uses our search server, which with that many requests you'd presumably rapidly get ratelimited
+19:16 <#MusicBrainz-Devel> ianmcorvidaethink*
+19:16 <#MusicBrainz-Devel> michaeljamesI see I had no idea the musicbrainz server used the search.musicbrainz.org services
+19:17 <#MusicBrainz-Devel> ianmcorvidaeit's the LUCENE_SERVER configuration variable in DBDefs, if you look
+19:17 <#MusicBrainz-Devel> michaeljamesI thought once I had a musicbrainz server it was self contained... :(
+19:17 <#MusicBrainz-Devel> ianmcorvidae(the defaults are in lib/DBDefs/Default.pm)
+19:17 <#MusicBrainz-Devel> ianmcorvidaeit is as far as lookups and browse, but yeah, not for search
+19:18 <#MusicBrainz-Devel> michaeljamesI see so I just need to tinker with that to make the requests to my own postgres instance?
+19:18 <#MusicBrainz-Devel> ianmcorvidaeit's not a postgres instance thing, it's making requests to a lucene search server. so if you want to not use search.musicbrainz.org you'll need to set up a search server
+19:18 <#MusicBrainz-Devel> michaeljamesto clarify i'm using /ws/2/recording/?query=
+19:19 <#MusicBrainz-Devel> ianmcorvidaeyes, that's just proxying it to search.musicbrainz.org then
+19:19 <#MusicBrainz-Devel> ianmcorvidaehttps://bitbucket.org/metabrainz/search-server is what you'll need to set up, and then configure your musicbrainz-server instance to use wherever you've set that up instead, or you can just use it directly if you don't need lookup or browse requests
+19:19 <#MusicBrainz-Devel> michaeljamesAh Okay. Wish I knew this earlier. It took me about 3 days over christmas to get it up and running. Oh well.
+19:20 <#MusicBrainz-Devel> kunomichaeljames: luckily the search server is easier to get running, though it will take some time to create indexes.
+19:20 <#MusicBrainz-Devel> michaeljamesAwesome
+19:20 <freenode> reoafk is now known as reosarevok
+19:20 <#MusicBrainz-Devel> ianmcorvidaeit also sounds likely you're using this commercially, with that many requests, so you may want to contact rob (rob at musicbrainz dot org for email)
+19:21 <#MusicBrainz-Devel> michaeljamesOnce I have the search server running I could just directly query that?
+19:21 <#MusicBrainz-Devel> chirlu` has joined (4d154d23@gateway/web/freenode/ip.77.21.77.35)
+19:21 <#MusicBrainz-Devel> michaeljamesIts by no means commercial yet. Its just me trying to make a demo
+19:22 <#MusicBrainz-Devel> ianmcorvidaeand yes, you should be able to query the search server directly. the URL parameters are minorly different but it shouldn't be too hard to figure out (main difference is if you want JSON-formatted data)
+19:22 <#MusicBrainz-Devel> ianmcorvidae(where you need to use fmt=jsonnew when querying the search server directly
+19:22 <#MusicBrainz-Devel> michaeljamescool but I hear that json isn't a fully supported type in ws/2?
+19:23 <#MusicBrainz-Devel> michaeljamesand if there's bugs its unlikely it will be fixed.
+19:23 <#MusicBrainz-Devel> ianmcorvidaeit's at the very least under-tested
+19:23 <#MusicBrainz-Devel> michaeljamesws/3 will be json but thats not on the horizon just yet
+19:24 <#MusicBrainz-Devel> ianmcorvidaedepends on your horizon :) but in general yes
+19:24 <#MusicBrainz-Devel> michaeljamesI need it to be pretty stable. so will be using my NodeJS server to make the requests and parse the responses
+19:24 <#MusicBrainz-Devel> michaeljamesCool So what branch is should I use to get started with the search server?
+19:24 <#MusicBrainz-Devel> michaeljames*Cool So what branch is should I use to get started with the search server?
+19:25 <#MusicBrainz-Devel> ianmcorvidaemaster, presumably
+19:26 <#MusicBrainz-Devel> michaeljamescool and setup documentation is in master aswell?
+19:26 <#MusicBrainz-Devel> michaeljamesas for replication, cron job to get the data? Use mbslave?
+19:27 <#MusicBrainz-Devel> ianmcorvidaeit's always going to be cron, mbslave or the tools provided with musicbrainz-server
+19:28 <#MusicBrainz-Devel> michaeljamescool and the archives I typically need just for search on the ftp server?
+19:29 <#MusicBrainz-Devel> ianmcorvidaeeverything is on the ftp server that isn't private, so trivially yes
+19:29 <#MusicBrainz-Devel> michaeljamessorry I meant do I need all of the replication data?
+19:29 <#MusicBrainz-Devel> michaeljamesas its just search
+19:29 <#MusicBrainz-Devel> michaeljames artist, label, recording, release, release-group, work, area, url
+19:30 <#MusicBrainz-Devel> chirlu`ianmcorvidae: Yes, I watched the memory usage graph, where the script stands out clearly. :-)
+19:30 <#MusicBrainz-Devel> chirlu`Although the baseline is slowly growing again.
