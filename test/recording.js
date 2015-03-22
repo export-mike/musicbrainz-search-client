@@ -19,9 +19,6 @@ describe('Recording Url Construction', function() {
 		expect(recording.baseUrl).to.equal('https://search.musicbrainz.org/ws/2/recording/');
 	});
 
-	//?max=2&type=recording&fmt=xml&offset=0&query=artist:"jack%20johnson" AND recording:breakdown
-
-
 	it('Query has artist parameters', function() {
 		var recording = new Recording();
 
@@ -34,8 +31,7 @@ describe('Recording Url Construction', function() {
 
 	it('Query has artist and recording parameters', function() {
 		var recording = new Recording();
-
-
+		
 		expect(recording._createQueryValue({
 			artist: 'Jack Johnson',
 			recording: 'breakdown'

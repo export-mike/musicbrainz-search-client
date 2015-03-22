@@ -7,21 +7,22 @@
     "test": "mocha"
   },
   "keywords": [
-    "camelcase",
-    "keys",
-    "object",
-    "recursive",
-    "camelcase-keys",
-    "snake-case"
+    "musicbrainz",
+    "mb client",
+    "musicbrainz client",
+    "musicbrainz search server"
   ],
   "author": "mike james",
   "license": "ISC",
   "dependencies": {
+    "async": "^0.9.0",
     "camelcase": "^1.0.2",
-    "camelcase-keys-recursive": "0.0.1",
+    "camelcase-keys-recursive": "~0.0.1",
     "isarray": "0.0.1",
     "lodash": "^3.1.0",
-    "map-obj": "^1.0.0"
+    "map-obj": "^1.0.0",
+    "request": "^2.53.0",
+    "xml2js": "^0.4.6"
   },
   "devDependencies": {
     "chai": "^2.1.1",
