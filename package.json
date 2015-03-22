@@ -1,7 +1,7 @@
 {
-  "name": "node-musicbrainz-search-client",
+  "name": "musicbrainz-search-client",
   "version": "0.0.1",
-  "description": "A basic client for requesting musicbrainz search resources.",
+  "description": "A basic client for requesting musicbrainz search resources. search.musicbrainz.org",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
