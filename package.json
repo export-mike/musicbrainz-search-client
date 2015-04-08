@@ -4,7 +4,10 @@
   "description": "A basic client for requesting musicbrainz search resources. search.musicbrainz.org",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --ui exports --reporter spec",
+    "monitor": "mocha --ui exports --reporter min --watch",
+    "debugtest": "mocha --debug-brk --ui exports --reporter spec",
+    "coverage": "mocha -r jscoverage --covignore .covignore --covout html --covinject true --coverage 90,85,75 test"
   },
   "keywords": [
     "musicbrainz",
@@ -21,11 +24,13 @@
     "isarray": "0.0.1",
     "lodash": "^3.1.0",
     "map-obj": "^1.0.0",
+    "mochawrapper": "0.0.34",
     "request": "^2.53.0",
     "xml2js": "^0.4.6"
   },
   "devDependencies": {
     "chai": "^2.1.1",
-    "lab": "^5.4.0"
+    "lab": "^5.4.0",
+    "mochawrapper": ""
   }
 }
