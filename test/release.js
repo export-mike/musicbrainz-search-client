@@ -35,7 +35,7 @@ describe('Release Url Construction', function() {
 		expect(release._createQueryValue({
 			artist: 'Jack Johnson',
 			recording: 'breakdown'
-		})).to.equal('artist:"Jack Johnson" AND recording:"breakdown"');
+		})).to.equal('artist:"Jack Johnson" + recording:"breakdown"');
 
 	});
 
@@ -48,6 +48,6 @@ describe('Release Url Construction', function() {
 		});
 
 		expect(release._createFullUrl()).
-		to.equal('https://search.musicbrainz.org/ws/2/release/?max=2&type=release&fmt=xml&offset=0&query=artist%3A%22Jack%20Johnson!%22%20AND%20recording%3A%22breakdown%22');
+		to.equal('https://search.musicbrainz.org/ws/2/release/?max=2&type=release&fmt=xml&offset=0&query=artist%3A%22Jack%20Johnson!%22%20%2B%20recording%3A%22breakdown%22');
 	});
 });
